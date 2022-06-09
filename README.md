@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Chompbros
-- 👀 I’m interested in be a developer.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on with everything I can.
+## - 👋 Hi, I’m **Matheus Ferreira Goveia , @Chompbros**
+- 🐍 I’m currently learning **Python**.
 
 <!---
 Chompbros/Chompbros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
